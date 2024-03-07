@@ -23,6 +23,7 @@ namespace SampleWPFapp
 
         private void OnBtnClick(object sender, RoutedEventArgs e)
         {
+            // comment
             string s = "hello";
             MessageBox.Show(s);
         }
